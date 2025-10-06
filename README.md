@@ -26,7 +26,7 @@ Passionate about building **scalable AI solutions**, MLOps workflows, and cloud-
 - Unified chat UI with benchmarking and evaluation tools  a
 
 ### **Amazon Web Scraper & ETL**  
-[GitHub Repo](https://github.com/Alexadnre/AmazonWebScraper)  
+[GitHub Repo](https://github.com/Alexadnre/AmazonWebScrapper)  
 - **Dockerized ETL pipeline** for real-time web scraping  
 - Resilient to anti-bot protections  
 - Data stored and indexed in **ElasticSearch**, deployed on **AWS**  
@@ -40,11 +40,6 @@ Passionate about building **scalable AI solutions**, MLOps workflows, and cloud-
 [GitHub Repo](https://github.com/Alexadnre/r-dashboard)  
 - **Shiny dashboards** for analytics & storytelling  
 - Dynamic filtering, visualization with Plotly for R  
-
-### **Procedural Generation**  
-[GitHub Repo](https://github.com/Alexadnre/Ville3dProcedurale)  
-- Generative simulations optimized for **speed & safety**  
-- Advanced **Rust programming** (bonus, secondary focus)
 
 ---
 
