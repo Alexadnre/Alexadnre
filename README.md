@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-0F3E6B?style=for-the-badge&logo=python&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  ![GCP](https://img.shields.io/badge/GCP-FC6D26?style=for-the-badge&logo=googlecloud&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
 
-AI \& Data Science Engineer with hands-on experience deploying \textbf{LLM \& RAG pipelines} and building **scalable, production-ready ML systems**.  
+AI \& Data Science Engineer with hands-on experience deploying **LLM \& RAG pipelines** and building **scalable, production-ready ML systems**.  
 Keen to contribute to **large-scale AI projects** while expanding expertise in **MLOps, cloud deployment, and automated ML workflows**.
 
 Seeking **Summer 2026 AI/ML Engineering internships** at tech companies (Feb–Aug 2026)
