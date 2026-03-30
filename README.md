@@ -11,7 +11,7 @@ Seeking **Summer 2026 AI/ML Engineering internships** at tech companies (Feb–A
 ---
 
 
-## 👀 About Me
+## About Me
 AI & Data Engineer with hands-on experience in **LLMs, RAG pipelines, Deep Learning, and production-grade ML systems**.  
 Passionate about building **scalable AI solutions**, MLOps workflows, and cloud-deployed data pipelines.  
 
